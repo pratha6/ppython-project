@@ -1,0 +1,9 @@
+ngrok in c drive 
+
+in cmd administrator 
+activate the falsk app
+
+open ngrok folder in cmd then paste 
+ngrok http 10000
+
+the link in forwarding is to shared 
